@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "ManagerHost": 2,
+    "LoadBalancer": 6
+  },
+  "models": {
+    "ManagerHost": {
+      "7a634b85-2bd0-4f02-b54b-517c185da70d": "{\"id\":\"7a634b85-2bd0-4f02-b54b-517c185da70d\",\"host\":\"190.53.176.132\",\"port\":5000,\"actions\":[\"delete\",\"edit\"],\"protocol\":\"http\",\"created\":1567786576495,\"error\":{},\"errorType\":\"unknown\",\"app\":null,\"processes\":null,\"$$hashKey\":\"object:132\",\"isHostProblem\":true}"
+    },
+    "LoadBalancer": {
+      "1": "{\"protocol\":\"http\",\"host\":\"http://190.53.176.132\",\"port\":9000,\"id\":1}",
+      "2": "{\"protocol\":\"http\",\"host\":\"http://190.53.176.132\",\"port\":9000,\"id\":2}"
+    }
+  }
+}
