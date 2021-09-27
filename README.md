@@ -1,4 +1,4 @@
-# Sockets server Apparel Solutions S.A de C.V
+# Servidor con servicios web REST API y socket
 
 Reconstruir modulos de node
 ```
